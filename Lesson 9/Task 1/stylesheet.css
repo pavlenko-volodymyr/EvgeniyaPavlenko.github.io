@@ -1,46 +1,46 @@
 /* font-family: "FuturaRegular"; */
 @font-face {
     font-family: "FuturaRegular";
-    src: url("./fonts/FuturaRegular/FuturaRegular.eot");
-    src: url("./fonts/FuturaRegular/FuturaRegular.eot?#iefix")format("embedded-opentype"),
-    url("./fonts/FuturaRegular/FuturaRegular.woff") format("woff"),
-    url("./fonts/FuturaRegular/FuturaRegular.ttf") format("truetype");
+    src: url("./Fonts/FuturaRegular/FuturaRegular.eot");
+    src: url("./Fonts/FuturaRegular/FuturaRegular.eot?#iefix")format("embedded-opentype"),
+    url("./Fonts/FuturaRegular/FuturaRegular.woff") format("woff"),
+    url("./Fonts/FuturaRegular/FuturaRegular.ttf") format("truetype");
     font-style: normal;
     font-weight: normal;
 }
 /* font-family: "FuturaBold"; */
 @font-face {
     font-family: "FuturaBold";
-    src: url("./fonts/FuturaBold/FuturaBold.eot");
-    src: url("./fonts/FuturaBold/FuturaBold.eot?#iefix")format("embedded-opentype"),
-    url("./fonts/FuturaBold/FuturaBold.woff") format("woff"),
-    url("./fonts/FuturaBold/FuturaBold.ttf") format("truetype");
+    src: url("./Fonts/FuturaBold/FuturaBold.eot");
+    src: url("./Fonts/FuturaBold/FuturaBold.eot?#iefix")format("embedded-opentype"),
+    url("./Fonts/FuturaBold/FuturaBold.woff") format("woff"),
+    url("./Fonts/FuturaBold/FuturaBold.ttf") format("truetype");
     font-style: normal;
     font-weight: normal;
 }
 
 @font-face {
     font-family: "OpenSansRegular";
-    src: url("./fonts/OpenSansRegular/OpenSansRegular.eot");
-    src: url("./fonts/OpenSansRegular/OpenSansRegular.eot?#iefix")format("embedded-opentype"),
-    url("./fonts/OpenSansRegular/OpenSansRegular.woff") format("woff"),
-    url("./fonts/OpenSansRegular/OpenSansRegular.ttf") format("truetype");
+    src: url("./Fonts/OpenSansRegular/OpenSansRegular.eot");
+    src: url("./Fonts/OpenSansRegular/OpenSansRegular.eot?#iefix")format("embedded-opentype"),
+    url("./Fonts/OpenSansRegular/OpenSansRegular.woff") format("woff"),
+    url("./Fonts/OpenSansRegular/OpenSansRegular.ttf") format("truetype");
     font-style: normal;
     font-weight: normal;
 }
 
 @font-face {
     font-family: "trebuchet_regular";
-    src: url("./fonts/trebuchet_regular.ttf");
+    src: url("./Fonts/trebuchet_regular.ttf");
 }
 
 @font-face {
     font-family: 'Futura-Book-Regular';
-    src: url('./fonts/futuraBookBT/Futura-Book-Regular.eot');
-    src: url('./fonts/futuraBookBT/Futura-Book-Regular.eot?#iefix') format('embedded-opentype'),
-         url('./fonts/futuraBookBT/Futura-Book-Regular.woff') format('woff'),
-         url('./fonts/futuraBookBT/Futura-Book-Regular.ttf') format('truetype'),
-         url('./fonts/futuraBookBT/Futura-Book-Regular.svg#Futura-Book-Regular') format('svg');
+    src: url('./Fonts/futuraBookBT/Futura-Book-Regular.eot');
+    src: url('./Fonts/futuraBookBT/Futura-Book-Regular.eot?#iefix') format('embedded-opentype'),
+         url('./Fonts/futuraBookBT/Futura-Book-Regular.woff') format('woff'),
+         url('./Fonts/futuraBookBT/Futura-Book-Regular.ttf') format('truetype'),
+         url('./Fonts/futuraBookBT/Futura-Book-Regular.svg#Futura-Book-Regular') format('svg');
     font-weight: normal;
     font-style: normal;
 }
