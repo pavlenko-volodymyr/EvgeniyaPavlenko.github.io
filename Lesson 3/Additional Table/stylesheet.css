@@ -53,7 +53,7 @@ td{
 }
 
 .php td{
-	background-image: url(check.png);
+	background-image: url(./check.png);
 	background-size: 30px;
 	background-repeat: no-repeat;
 	background-position: center;

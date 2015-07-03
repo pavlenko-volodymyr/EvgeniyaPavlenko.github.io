@@ -19,7 +19,7 @@ select{
 	padding-bottom:2px;
 	border-radius: 0;
     overflow: hidden;
-    background:url(arrow.png);
+    background:url(./arrow.png);
     background-repeat: no-repeat;
     background-position: right;
     background-size: 38px;

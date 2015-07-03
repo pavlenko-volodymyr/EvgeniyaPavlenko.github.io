@@ -1,19 +1,19 @@
 @font-face {
     font-family: "LatoRegular";
-    src: url("fonts/LatoRegular/LatoRegular.eot");
-    src: url("fonts/LatoRegular/LatoRegular.eot?#iefix")format("embedded-opentype"),
-    url("fonts/LatoRegular/LatoRegular.woff") format("woff"),
-    url("fonts/LatoRegular/LatoRegular.ttf") format("truetype");
+    src: url("./fonts/LatoRegular/LatoRegular.eot");
+    src: url("./fonts/LatoRegular/LatoRegular.eot?#iefix")format("embedded-opentype"),
+    url("./fonts/LatoRegular/LatoRegular.woff") format("woff"),
+    url("./fonts/LatoRegular/LatoRegular.ttf") format("truetype");
     font-style: normal;
     font-weight: normal;
 }
 
 @font-face {
     font-family: "LatoLight";
-    src: url("fonts/LatoLight/LatoLight.eot");
-    src: url("fonts/LatoLight/LatoLight.eot?#iefix")format("embedded-opentype"),
-    url("fonts/LatoLight/LatoLight.woff") format("woff"),
-    url("fonts/LatoLight/LatoLight.ttf") format("truetype");
+    src: url("./fonts/LatoLight/LatoLight.eot");
+    src: url("./fonts/LatoLight/LatoLight.eot?#iefix")format("embedded-opentype"),
+    url("./fonts/LatoLight/LatoLight.woff") format("woff"),
+    url("./fonts/LatoLight/LatoLight.ttf") format("truetype");
     font-style: normal;
     font-weight: normal;
 }
@@ -70,27 +70,27 @@ img{
 }
 
 .bluebike{
-	background-image: url(images/bluebike.png);
+	background-image: url(./images/bluebike.png);
 }
 
 .girl{
-	background-image: url(images/girl.png);
+	background-image: url(./images/girl.png);
 }
 
 .cups{
-	background-image: url(images/cups.png);
+	background-image: url(./images/cups.png);
 }
 
 .cup{
-	background-image: url(images/cup.png);
+	background-image: url(./images/cup.png);
 }
 
 .redbike{
-	background-image: url(images/redbike.png);
+	background-image: url(./images/redbike.png);
 }
 
 .blackbike{
-	background-image: url(images/blackbike.png);
+	background-image: url(./images/blackbike.png);
 }
 
 div img{
@@ -105,7 +105,7 @@ div:hover > img{
 	display: inline-block;
 	width:40px;
 	height: 40px;
-	background-image: url(images/zoom1.png);
+	background-image: url(./images/zoom1.png);
 	position: relative;
 	top:-150px;
 	left:105px;
@@ -122,7 +122,7 @@ div:hover > .zoom{
 	display: inline-block;
 	width:40px;
 	height: 40px;
-	background-image: url(images/NormalLink1.png);
+	background-image: url(./images/NormalLink1.png);
 	background-repeat: no-repeat;
 	position: relative;
 	top:-150px;

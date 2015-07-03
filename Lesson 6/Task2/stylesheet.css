@@ -2,7 +2,7 @@
 .wrapper{
 	width: 100%;
 	height: 347px;
-	background-image: url(images/back.png);
+	background-image: url(./images/back.png);
 	position: absolute;
 }
 
@@ -29,7 +29,7 @@
 	width: 109px;
 	height: 109px;
 	display: inline-block;
-	background-image: url(images/he.png);
+	background-image: url(./images/he.png);
 	background-repeat: no-repeat;
 	background-size: contain;
 }
@@ -38,7 +38,7 @@
 	width: 109px;
 	height: 109px;
 	display: inline-block;
-	background-image: url(images/she.png);
+	background-image: url(./images/she.png);
 	background-repeat: no-repeat;
 	background-size: contain;
 }
@@ -70,19 +70,19 @@ h1{
 }
 
 .text::before{
-	content: ''; 
-    position: absolute; 
-    left: 98px; bottom: 35px; 
-    border: 20px solid transparent; 
-    border-right: 20px solid #F7F7F7; 
+	content: '';
+    position: absolute;
+    left: 98px; bottom: 35px;
+    border: 20px solid transparent;
+    border-right: 20px solid #F7F7F7;
 }
 
 .he .text::before{
-	content: ''; 
-    position: absolute; 
-    left: 684px; bottom: 30px; 
-    border: 20px solid transparent; 
-    border-right: 20px solid #F7F7F7; 
+	content: '';
+    position: absolute;
+    left: 684px; bottom: 30px;
+    border: 20px solid transparent;
+    border-right: 20px solid #F7F7F7;
 }
 
 hr{

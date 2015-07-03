@@ -1,11 +1,11 @@
 @font-face {
     font-family: "trebuchet_regular";
-    src: url("fonts/trebuchet_regular.ttf");
+    src: url("./fonts/trebuchet_regular.ttf");
 }
 
 @font-face {
     font-family: "trebuchet_bold";
-    src: url("fonts/trebuchet_bold.ttf");
+    src: url("./fonts/trebuchet_bold.ttf");
 }
 
 .first{
@@ -131,7 +131,7 @@ table{
 
 tr:nth-child(odd){
 	background-color: #EDF5FD;
-	background-image: url(IMG/icon.png);
+	background-image: url(./IMG/icon.png);
 	background-repeat: no-repeat;
 	background-position: 39px;
 	background-size: 20px;
@@ -141,7 +141,7 @@ tr:nth-child(odd){
 
 tr:nth-child(even){
 	background-color: #F5F5F6;
-	background-image: url(IMG/icon.png);
+	background-image: url(./IMG/icon.png);
 	background-repeat: no-repeat;
 	background-position: 39px;
 	background-size: 20px;
